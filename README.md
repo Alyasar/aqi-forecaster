@@ -2,7 +2,7 @@
 
 Forecasts PM2.5 air pollution at the **Shadipur (CPCB) station in Delhi, 24 hours ahead**, from current pollution readings and the next day's weather.
 
-**🔗 Live demo:** _add your Streamlit link here after deployment_
+**🔗 Live demo:** https://delhi-aqi-forecaster.streamlit.app
 
 ![App screenshot](reports/app_screenshot.png)
 
@@ -122,7 +122,7 @@ aqi-forecaster/
 ## Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/aqi-forecaster.git
+git clone https://github.com/Alyasar/aqi-forecaster.git
 cd aqi-forecaster
 python -m venv .venv
 .venv\Scripts\activate        # Windows

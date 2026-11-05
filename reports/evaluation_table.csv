@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R²
+Baseline: same as now,23.4,49.7,0.451
+Baseline: last 24h average,23.9,46.2,0.525
+GB + weather (trained once),26.2,45.6,0.538
+GB walk-forward,24.3,44.1,0.568
+GB walk-forward (log target),24.2,44.7,0.556
